@@ -1,0 +1,5 @@
+Compiling and running instructions:
+
+On your terminal execute the following commands:
+for compiling-  javac JavaHTTPServer.java
+to run the program-  java JavaHTTPServer -document_root "./DS_ChingYueh_PA1" -port 8080
