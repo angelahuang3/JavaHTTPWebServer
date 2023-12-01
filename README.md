@@ -28,9 +28,8 @@
 	1)	javac JavaHTTPServer.java
 	2)	java JavaHTTPServer -document_root "./DS_ChingYueh_PA1" -port 8080
 
-# open the browser and enter localhost:8080 or 127.0.0.1:8080
-
-# open another terminal
+open the browser and enter localhost:8080 or 127.0.0.1:8080
+or open another terminal
 1.	telnet localhost 8080
 2.	get / HTTP/1.1
     
